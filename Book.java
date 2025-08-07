@@ -1,8 +1,7 @@
-package Task_3;
 
 public class Book {
 
-    private String book_id;//should be of 6 characters.
+    private String book_id;//should be of 6-10 characters.
     private String book_name;
     private boolean availability;
 
@@ -55,3 +54,4 @@ public class Book {
 
 
 }
+
