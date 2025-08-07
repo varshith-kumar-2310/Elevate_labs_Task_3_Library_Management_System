@@ -1,5 +1,3 @@
-package Task_3;
-
 public class User {
     private String user_id;//should be of 6 characters.
     private String user_name;
@@ -51,3 +49,4 @@ public class User {
     
 
 }
+
